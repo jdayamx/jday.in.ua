@@ -1,0 +1,2 @@
+cd /data/www/test.jday.in.ua/html/protected/
+./yiic Mysqldump

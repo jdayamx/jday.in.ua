@@ -1,0 +1,1 @@
+<?php echo $this->renderPartial('_register', array('model'=>$model,'title'=>'Регистрация нового пользователя')); ?>

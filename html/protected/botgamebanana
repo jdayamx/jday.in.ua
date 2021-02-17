@@ -1,0 +1,8 @@
+#!/bin/sh
+
+while [ true ]
+do
+/www/test.jday.in.ua/html/protected/yiic botgamebanana
+echo "Скрипт умер... ждем 10 сек"
+sleep 10
+done

@@ -1,0 +1,1 @@
+mysql -u credit -p --password=credit321 -h localhost credit < sql/dmp_db_credit_20140218020007.sql
